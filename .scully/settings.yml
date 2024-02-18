@@ -1,0 +1,11 @@
+identifier: ldser6hfqewerabb
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: D:\Programming\Angular_projects_book\my-blog
+distFolder: dist/my-blog
+outDir: D:\Programming\Angular_projects_book\my-blog\dist\static
+handle404: ''
+allowErrorCollect: true
