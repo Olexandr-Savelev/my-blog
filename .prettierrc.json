@@ -1,0 +1,13 @@
+{
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "tabWidth": 2,
+  "printWidth": 120,
+  "arrowParens": "always",
+  "objectCurlySpacing": true,
+  "jsxBracketSameLine": false,
+  "vueIndentScriptAndStyle": false,
+  "quoteProps": "preserve",
+  "arrayElementNewline": true
+}
